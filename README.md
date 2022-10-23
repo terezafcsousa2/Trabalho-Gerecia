@@ -1,2 +1,2 @@
-# Trabalho-Gerecia
+# Trabalho-Gerencia
 Trabalho da Disciplina Gerência de Configuração
